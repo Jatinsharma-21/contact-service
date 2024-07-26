@@ -9,9 +9,8 @@ Welcome to the **Contact Service**! This is a Node.js application designed for m
 3. [Configuration](#configuration)
 4. [Usage](#usage)
 5. [API Endpoints](#api-endpoints)
-6. [Testing](#testing)
-7. [Contributing](#contributing)
-8. [License](#license)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Features
 
@@ -23,11 +22,6 @@ Welcome to the **Contact Service**! This is a Node.js application designed for m
 ## Installation
 
 To set up the Contact Service on your local machine, follow these steps:
-
-1. **Clone the Repository**:
-
-   First, clone the repository from GitHub to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/contact-service.git
-   cd contact-service
+npm install
+To start the project 
+node app.js
